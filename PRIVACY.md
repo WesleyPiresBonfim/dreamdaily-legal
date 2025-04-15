@@ -15,7 +15,7 @@
 ### 3. Armazenamento e Exclusão  
 - Dados são **apagados automaticamente** após o término do torneio, exceto:  
   - Métricas agregadas (que não identificam indivíduos).  
-- Servidores podem solicitar a exclusão manual via: [https://discord.gg/fmEafs4yKr].  
+- Servidores podem solicitar a exclusão manual via: [DreamStars](https://discord.gg/fmEafs4yKr).  
 
 ### 4. Compartilhamento  
 - **Nenhum dado é vendido ou compartilhado** com terceiros.  
